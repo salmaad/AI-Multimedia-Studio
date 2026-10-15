@@ -35,7 +35,7 @@ Once the script is reviewed, clicking the generation button runs scene-by-scene 
 ### 3. Playback & Export
 The completed video displays directly in the app interface with styled subtitle boxes, alongside options to download the final MP4 or view generated individual scene assets[cite: 7].
 <p align="center">
-  <img src="media3.jpg" alt="Video Player and Output" width="90%">
+  <img src="media3.png" alt="Video Player and Output" width="90%">
 </p>
 
 ---
