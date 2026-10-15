@@ -1,0 +1,7 @@
+
+streamlit
+google-genai
+moviepy>=2.0.0
+Pillow
+pyttsx3
+imageio-ffmpeg
